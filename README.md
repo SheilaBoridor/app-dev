@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 # My Favorite Movie
-## Sci-Fuction
+## Sci-Fiction
 
 *From Netflix*
 1.  Annihilation (2018)
